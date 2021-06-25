@@ -43,3 +43,11 @@ En vous assurant que le fichier `PFIA_2021_RC_Tutorial.slides.html` est bien dan
 
 Nous recommandons d'activer Javascript dans le navigateur pour un expérience optimale.
 
+
+## Données de chant de canaris pour le chapitre 4 du tutoriel
+
+Si vous le souhaitez, les données de chant de canari utilisées dans le chapitre 4 du tutoriel sont disponibles sur [Zenodo, en cliquant sur ce lien](https://zenodo.org/record/4736597).
+Placez les dossiers `audio` et `annotations` obtenus dans un dossier `canary-data` à la racine du dossier du tutoriel.
+
+**Attention, ces données sont assez lourdes ! (plusieurs Go).**
+
